@@ -16,4 +16,4 @@ Open `website/index.html` locally or visit GitHub Pages once published.
 ## Contact
 LinkedIn: <www.linkedin.com/in/hassan-mohamed-390958248>
 Behance: (https://www.behance.net/hassanmohamed392)
-Email: hm910881@email.com
+Email: hm910881@gmail.com
