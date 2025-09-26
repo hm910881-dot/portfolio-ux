@@ -7,7 +7,7 @@ Quick intro: I'm HASSAN MOHAMED, building UX/UI case studies focused on booking 
 
 ## Projects
 - **Barber's shop Booking app\web page** — Case study + Figma prototype  
-  - Figma: <paste your figma link here>  
+  - Figma:https://www.figma.com/make/q6qFq5Po7QCVIy43fBMqMO/Barber-Customer-Booking-App?fullscreen=1
   - Case Study: projects/Barber's shop Booking/case-study.md
 
 ## How to view
